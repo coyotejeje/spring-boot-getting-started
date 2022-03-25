@@ -1,5 +1,8 @@
 # spring-boot-getting-started
 
-Tutoriel d'apprentissage pour débuter Spring Boot. 
+<img src="./src/main/resources/static/logo-spring.svg" width="300">
 
-Contenu proposé par Amigoscode
+Tutoriel d'apprentissage :
+> Création d'une API Rest avec Spring Boot (niveau débutant)
+
+Contenu proposé par le site : <a href="https://amigoscode.com" target="_blank">Amigoscode.com</a>
